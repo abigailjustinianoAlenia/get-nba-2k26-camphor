@@ -186,4 +186,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*NBA 2K26 · Updated 2026-11-21 · Shared under the MIT License*
+*NBA 2K26 · Updated 2026-11-22 · Shared under the MIT License*
